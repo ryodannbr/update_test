@@ -1,0 +1,16 @@
+{
+  "updates": [
+    {
+      "version": "1.0.1",
+      "url": "https://seudominio.com/patches/patch_1.0.1.zip"
+    },
+    {
+      "version": "1.0.2",
+      "url": "https://seudominio.com/patches/patch_1.0.2.zip"
+    },
+    {
+      "version": "1.0.3",
+      "url": "https://seudominio.com/patches/patch_1.0.3.zip"
+    }
+  ]
+}
