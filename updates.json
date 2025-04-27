@@ -2,15 +2,15 @@
   "updates": [
     {
       "version": "1.0.1",
-      "url": "https://seudominio.com/patches/patch_1.0.1.zip"
+      "url": "https://ryodannbr.github.io/update_test/updates/patch.zip"
     },
     {
       "version": "1.0.2",
-      "url": "https://seudominio.com/patches/patch_1.0.2.zip"
+      "url": "https://ryodannbr.github.io/update_test/updates/update2.zip"
     },
     {
       "version": "1.0.3",
-      "url": "https://seudominio.com/patches/patch_1.0.3.zip"
+      "url": "https://ryodannbr.github.io/update_test/updates/update3.zip"
     }
   ]
 }
