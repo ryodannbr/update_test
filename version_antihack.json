@@ -7,12 +7,12 @@
       "hash": "e5435c0e86a8181a3d88206d5dd47145f2aa768afcae6d8c2ae449f8601a8724"
     },
     {
-      "file": "engine.dll",
-      "hash": "hash_sha256_da_dll_aqui_com_64_caracteres"
+      "file": "Game.ini",
+      "hash": "d351819813d6c07d39ccdc68debd5085c7d7fcf1080236029db1f4db353f68c8"
     },
     {
-      "file": "data/items.dat",
-      "hash": "hash_sha256_do_arquivo_de_dados_aqui"
+      "file": "Data/items.rvdata2",
+      "hash": "65a75f95dca1e74e8ccfb237ff142a26aba85dd99f62aef153c1371637e5e9e1"
     }
   ]
 }
