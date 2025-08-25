@@ -2,13 +2,13 @@
   "latest": "1.0.2",
   "updates": [
     {
-      "from_version": "2.1.0",
-      "to_version": "2.2.0",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
       "url": "https://ryodannbr.github.io/update_test/updates/patch_1.0.1.zip"
     },
     {
-      "from_version": "2.2.0",
-      "to_version": "2.3.0",
+      "from_version": "1.0.1",
+      "to_version": "1.0.2",
       "url": "https://ryodannbr.github.io/update_test/updates/patch_1.0.2.zip"
     }
   ]
