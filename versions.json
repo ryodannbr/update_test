@@ -4,17 +4,12 @@
     {
       "from_version": "2.1.0",
       "to_version": "2.2.0",
-      "url": "https://ryodannbr.github.io/update_test/updates/patch_2.1.0_to_2.2.0.zip"
+      "url": "https://ryodannbr.github.io/update_test/updates/patch_1.0.1.zip"
     },
     {
       "from_version": "2.2.0",
       "to_version": "2.3.0",
-      "url": "https://ryodannbr.github.io/update_test/updates/patch_2.2.0_to_2.3.0.zip"
-    },
-    {
-      "from_version": "2.3.0",
-      "to_version": "2.3.1",
-      "url": "https://ryodannbr.github.io/update_test/updates/patch_2.3.0_to_2.3.1.zip"
+      "url": "https://ryodannbr.github.io/update_test/updates/patch_1.0.2.zip"
     }
   ]
 }
