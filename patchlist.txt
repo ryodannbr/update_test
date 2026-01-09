@@ -1,0 +1,2 @@
+1.0.1 | https://ryodannbr.github.io/update_test/updates/patch_1.0.1.zip
+1.0.2 | https://ryodannbr.github.io/update_test/updates/patch_1.0.1.zip
